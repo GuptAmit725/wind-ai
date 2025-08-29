@@ -20,8 +20,8 @@ These forecasts are critical for **Statnett** and Nordic transmission operators 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-org>/windai-forecasting.git
-cd windai-forecasting
+git clone https://github.com/GuptAmit725/wind-ai.git
+cd windai-ai
 ```
 
 ### 2. Create and Activate Environment
