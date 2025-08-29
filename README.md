@@ -1,9 +1,3 @@
-Perfect 👍 I’ll turn the README into a **starter repo template** that not only describes the competition but also helps participants quickly get started with setup, data, and submissions.
-
-Here’s the updated **README.md**:
-
----
-
 # WindAI: Wind Power Forecasting in Norway
 
 ## 📖 Overview
